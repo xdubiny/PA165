@@ -6,3 +6,5 @@ test-output
 *.iml
 *~
 target
+/.idea/
+/git-mvn-seminar/.idea/
